@@ -1,0 +1,30 @@
+.container{
+    background-color: gainsboro;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    flex-wrap: wrap;
+}
+
+.menu_topo {
+    text-align: center;
+    width: 100%;
+    height: 20%;
+    background-color: blanchedalmond;
+}
+
+.menu_esquerdo {
+    width: 10%;
+    height: 80%;
+    background-color: salmon;
+}
+
+.conteudo_esquerdo {
+    width: 45%;
+    background-color: blu;
+}
+
+.conteudo_direito {
+    width: 45%;
+    background-color: green;
+}
